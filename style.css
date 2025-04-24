@@ -1,0 +1,97 @@
+.conteyner{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-1 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: rgb(29, 147, 29);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-2 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: rgb(132, 26, 26);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-3 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: purple;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-4 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: rgb(0, 182, 166);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-5 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-6 {
+    border: none;
+    border-radius: 50px;
+    width: 155px;
+    height: 37px;
+    color: orange;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-7 {
+    border: none;
+    border-radius: 50px;
+    width: 60px;
+    height: 37px;
+    color: rgb(117, 42, 42);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-8 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: rgb(143, 11, 150);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-9 {
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 37px;
+    color: rgb(146, 98, 9);
+    font-size: 18px;
+    font-weight: 700;
+}
+span{
+    color: rgb(0, 0, 255);
+    font-size: 14px;
+    box-shadow: 100px;
+}
